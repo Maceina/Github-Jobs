@@ -6,7 +6,7 @@ import App from "./components/App";
 import reportWebVitals from "./reportWebVitals";
 import "normalize.css";
 import "./index.css";
-// 12345
+// 1234
 ReactDOM.render(
   <BrowserRouter>
     <React.StrictMode>
