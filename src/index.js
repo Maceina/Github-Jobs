@@ -6,7 +6,7 @@ import App from "./components/App";
 import reportWebVitals from "./reportWebVitals";
 import "normalize.css";
 import "./index.css";
-// 5
+// 6
 ReactDOM.render(
   <BrowserRouter>
     <React.StrictMode>
